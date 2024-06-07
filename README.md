@@ -1,1 +1,3 @@
 # delta
+
+the learnigs
